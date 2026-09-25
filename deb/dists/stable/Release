@@ -1,0 +1,28 @@
+Origin: Clarified Labs, Inc.
+Label: harness
+Suite: stable
+Codename: stable
+Date: Fri, 25 Sep 2026 23:45:29 UTC
+Architectures: amd64 arm64
+Components: main
+MD5Sum:
+ cde161bfb7787483f53ae4fbbca597a7 1910 main/binary-amd64/Packages
+ bb4edd57121ee4ccd55156a9887f7d03 829 main/binary-amd64/Packages.gz
+ 024c36d4df3bab23ca4c06587e6d4380 96 main/binary-amd64/Release
+ 6de979e728298745ca9ac2a8a12b1e47 1910 main/binary-arm64/Packages
+ bf56ac3a4952cf3c764c0e7968e92ef2 833 main/binary-arm64/Packages.gz
+ 105586bde3789c26c3cd7eda43042f4f 96 main/binary-arm64/Release
+SHA1:
+ f2c8bf8ee25a509d3992b9e6486ccf7438b608f2 1910 main/binary-amd64/Packages
+ 09f94f509d429f829de3437b5908a4404c6324cc 829 main/binary-amd64/Packages.gz
+ c02a6288f7097644184b58c21eeb36a452e87c19 96 main/binary-amd64/Release
+ 209289f6aa0b2793ff7204bf33bfa1a289ac5b29 1910 main/binary-arm64/Packages
+ 99be16ce2441e79c49997cc86794036ea1e78f93 833 main/binary-arm64/Packages.gz
+ 2c23c0d9547b72af946c5f33f5c86c4fc9a7440d 96 main/binary-arm64/Release
+SHA256:
+ 7b30b28519b8c74922e74ee8b42dbaad3881d2e9e39b719deb7db4fd3e424efa 1910 main/binary-amd64/Packages
+ 45c60bbb059e10d4416394033d4d301838e6423fe7b7afc9e13485a0507445a5 829 main/binary-amd64/Packages.gz
+ 57b7867db9dc6f7fc9d2291a80a25df71fdf237d1c295d2d41befff581645b71 96 main/binary-amd64/Release
+ b293d0a0458e120b14b0f998db897bde621659e37623364b75544d13cc4fd6d8 1910 main/binary-arm64/Packages
+ 5e66609b720c25a445fb86aea90ac4302a402eccfe4dada2d6f9bcdf522dfac1 833 main/binary-arm64/Packages.gz
+ f8998cf79bd0a7f64c0a1de6578934ef95fa01d2a47ba8325294e197136e1822 96 main/binary-arm64/Release
