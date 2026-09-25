@@ -1,0 +1,7 @@
+Origin: Clarified Labs, Inc.
+Label: harness
+Suite: stable
+Codename: stable
+Components: main
+Architectures: amd64 arm64
+SignWith: yes
