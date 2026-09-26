@@ -46,3 +46,19 @@ MD5sum: 6edb1521c40482b55768cfd97881466b
 Description: Provider and model proxy for harness
  The harness model proxy owns provider configuration, API keys, model catalog metadata, and concrete provider calls.
 
+Package: md
+Version: 0.0.5
+Architecture: amd64
+Maintainer: Clarified Labs <opensource@clarifiedlabs.com>
+Installed-Size: 2624
+Homepage: https://github.com/ClarifiedLabs/mdcli
+Priority: optional
+Section: utils
+Filename: pool/main/m/md/md_0.0.5_amd64.deb
+Size: 1027606
+SHA256: 7653f85d8ff1b2e584b4538fc9f4690daa4dacf8409a3a67f6ad6fb99417b78e
+SHA1: 4d6fad1edb6e9f0c67bbf823533d91f2c1f7a59f
+MD5sum: 24331e67a61622e3871d322ade966ee7
+Description: Terminal Markdown viewer with ASCII Mermaid diagrams
+ md renders Markdown in the terminal with styling, syntax highlighting for fenced code blocks, and draws mermaid fences as ASCII diagrams.
+
