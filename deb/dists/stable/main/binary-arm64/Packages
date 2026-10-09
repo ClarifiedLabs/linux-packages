@@ -1,48 +1,48 @@
 Package: harness
-Version: 0.5.55
+Version: 0.5.56
 Architecture: arm64
 Maintainer: Clarified Labs <opensource@clarifiedlabs.com>
 Installed-Size: 15720
 Homepage: https://github.com/ClarifiedLabs/harness
 Priority: optional
 Section: utils
-Filename: pool/main/h/harness/harness_0.5.55_arm64.deb
-Size: 5383536
-SHA256: 8f78f3393d6c4828579ead5f1ce8a51d0abe4f25c0794f8e4f89614e094932c1
-SHA1: cb0798e0f000794ec24e999757fed1acf6c0a231
-MD5sum: 287a594514656296cb59780d8176cc42
+Filename: pool/main/h/harness/harness_0.5.56_arm64.deb
+Size: 5390344
+SHA256: 86f8dc5833ef2d4ef69520188e9a01d74a33d6cb8d6853588c268d353a988b39
+SHA1: 9e82a71fced940bef96494e149d0138509140334
+MD5sum: 7fd477e021e419c237e75befb95b482b
 Description: Tool-using LLM harness CLI
  Harness is a terminal-first CLI for running a provider-neutral, tool-using LLM loop over local files, shell commands, web fetches, and git.
 
 Package: harness-mcp-proxy
-Version: 0.5.55
+Version: 0.5.56
 Architecture: arm64
 Maintainer: Clarified Labs <opensource@clarifiedlabs.com>
 Installed-Size: 7400
 Homepage: https://github.com/ClarifiedLabs/harness
 Priority: optional
 Section: utils
-Filename: pool/main/h/harness-mcp-proxy/harness-mcp-proxy_0.5.55_arm64.deb
-Size: 2576458
-SHA256: cdedfd18f3de19b6dabf1f68796e042214724f85ac909d36ddb4da807edad9fe
-SHA1: 85322b4849d08182941328b1e3506503bde86e5e
-MD5sum: 63054f420e9a2614a4114b3fbb4bbf56
+Filename: pool/main/h/harness-mcp-proxy/harness-mcp-proxy_0.5.56_arm64.deb
+Size: 2576890
+SHA256: a1cabc90b766d9089ad105497262194436f3902cfad0351fadeb36010520becb
+SHA1: 811fc1ba2e5520778a16b28cc8a9c1296f6a65d9
+MD5sum: 10c26ced341c56ac40c09f6bdd600cbe
 Description: MCP proxy for harness
  The harness MCP proxy supervises configured MCP servers and exposes their merged tool surface over HTTP or stdio.
 
 Package: harness-model-proxy
-Version: 0.5.55
+Version: 0.5.56
 Architecture: arm64
 Maintainer: Clarified Labs <opensource@clarifiedlabs.com>
-Installed-Size: 17320
+Installed-Size: 17448
 Homepage: https://github.com/ClarifiedLabs/harness
 Priority: optional
 Section: utils
-Filename: pool/main/h/harness-model-proxy/harness-model-proxy_0.5.55_arm64.deb
-Size: 4412588
-SHA256: 1435de6458e1d71d22ac4d17210df3a47383094fad586045427b3d786fa27c57
-SHA1: 9877b430bd4ee45deed4cc9da43ebecc339fd206
-MD5sum: 3ca8af7f066993831e18d90f96eceef2
+Filename: pool/main/h/harness-model-proxy/harness-model-proxy_0.5.56_arm64.deb
+Size: 4419434
+SHA256: acc13d1dbe45e32d5b81dd8f4b6f2bea5a752e3f33c388db375757dd5cff96f2
+SHA1: e41ad97a8e0bbc942f9a05c600e549c59ba4a4a4
+MD5sum: a56193b14da980763065990d9dbec8f5
 Description: Provider and model proxy for harness
  The harness model proxy owns provider configuration, API keys, model catalog metadata, and concrete provider calls.
 
