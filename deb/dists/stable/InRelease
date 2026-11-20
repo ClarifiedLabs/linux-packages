@@ -5,43 +5,43 @@ Origin: Clarified Labs, Inc.
 Label: clarifiedlabs
 Suite: stable
 Codename: stable
-Date: Wed, 18 Nov 2026 00:06:11 UTC
+Date: Fri, 20 Nov 2026 20:58:53 UTC
 Architectures: amd64 arm64
 Components: main
 MD5Sum:
- 911c4b5e6536ee8dbc91cc1fefddd2f5 2544 main/binary-amd64/Packages
- 72d0f090c6a68f26cc1cf2452b54d339 1067 main/binary-amd64/Packages.gz
+ 57fa0965c848cdf0ce540f0430161008 2544 main/binary-amd64/Packages
+ 1f0259ae45fa7edc61502185aa032ca8 1068 main/binary-amd64/Packages.gz
  024c36d4df3bab23ca4c06587e6d4380 96 main/binary-amd64/Release
- 0ade882bfdab2d19e63073dcf055a7df 2543 main/binary-arm64/Packages
- 4fd70c540a907a9124e93814986955c4 1067 main/binary-arm64/Packages.gz
+ 819c7f023311f26a2cc63cbb24a9e53c 2543 main/binary-arm64/Packages
+ 7bb2936748850641d4d4fc8a11f52fac 1068 main/binary-arm64/Packages.gz
  105586bde3789c26c3cd7eda43042f4f 96 main/binary-arm64/Release
 SHA1:
- 3406e70285140803ef98cc10d40393a7bf3523c3 2544 main/binary-amd64/Packages
- 768769819e4b3aa29a630c677c7908c5f1d75d0a 1067 main/binary-amd64/Packages.gz
+ 7c7cae54a6724ebb2e188c40c53f277d0d6f515d 2544 main/binary-amd64/Packages
+ 6934211ab09104d5c1431744b8e0cbeeaf8a613e 1068 main/binary-amd64/Packages.gz
  c02a6288f7097644184b58c21eeb36a452e87c19 96 main/binary-amd64/Release
- e0aeca216f8c0c603c8ded524b93633b6336949d 2543 main/binary-arm64/Packages
- cab23d65ef171f000c04087f42b704e8a09a3a9a 1067 main/binary-arm64/Packages.gz
+ 4d219b475987a6d83af33dc7b4ecb5dec94e953b 2543 main/binary-arm64/Packages
+ 186ddef14ab9bd7719129e3e7779580ef0efc379 1068 main/binary-arm64/Packages.gz
  2c23c0d9547b72af946c5f33f5c86c4fc9a7440d 96 main/binary-arm64/Release
 SHA256:
- d86f5e3c5a9b9e2073dee37a208ace968c240460b346c2279907bca23e16f58b 2544 main/binary-amd64/Packages
- 6d3281f4c852bbf46e32bd481e9f4f92b5f75993fb645fcd47e5a8efa6c3610d 1067 main/binary-amd64/Packages.gz
+ 03f927f03a321bd419fbe3536507f140a6d8c60e0548d18aff5ee0bb5a919e75 2544 main/binary-amd64/Packages
+ 2b5052bbac2a048fb8bdb4c66aa9d522c5168694a8c0063b23abf534404269c6 1068 main/binary-amd64/Packages.gz
  57b7867db9dc6f7fc9d2291a80a25df71fdf237d1c295d2d41befff581645b71 96 main/binary-amd64/Release
- 1a5c7679a2eb919d295f7b0f957a23bcc743f8e006936959a4d11273412cfc5d 2543 main/binary-arm64/Packages
- e49c2a5631bcee691a273c4e3e11fbb9e0d81b6b2eb7fc5b37193d60d9d718d3 1067 main/binary-arm64/Packages.gz
+ af9be8bc6ccc73a573152eb3e302b22e1c8982e864756ddf9df848fc953445d4 2543 main/binary-arm64/Packages
+ b979b1c16eac2de027a5469d9217b4d2743f835ae94d7e109adb4506015e4d0b 1068 main/binary-arm64/Packages.gz
  f8998cf79bd0a7f64c0a1de6578934ef95fa01d2a47ba8325294e197136e1822 96 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEeC707kLgt3ZqOS/xVVT2dkAUhCAFAmr86/QACgkQVVT2dkAU
-hCDw+A//RMbnIhZ7DKOwS4UVPwPXBh4tUO4zxycsfw1VaP7nvMO9JASDBjJz4pZV
-bAG0UXbLTmAxotv7IJu62/t77JNgtxD6cUJsDGhdVchccftI272YWTgvia691Oww
-hUZTjPXXn/YrEi7oNTdEEwhObqaKd2mgTBxwMunfbu43LgF3Hr9HF7rtwc057+M0
-FjNslIYaMGq+kBG0FDkFpK0U11XLRYNf13tDetCM3u29yf9OodvnmbD1DNuHx6L6
-B1L6sR+2XNIe4Pr+EkmB22EqHglRjvKy+pcGNZCdJ0BqB+9Caa6pw8UlLxP5PXkD
-yg+1w6oKy9i5B4r5REdcWKHGnL+XjpaA0XSQDyBp8zDfP6Eo50+D+79WSK6tzH6o
-6KtQGZGwM5IZHCBTJkrLNXBaZy8UG5frIHt8oke1V3CK8h2SyEo0QFR8s0NrU4Yy
-zeiracZJTprLBjufw3SiJ5FunbEkZZhIXkFkayU+zMRtx62fL6X8SDBTJRooUOfP
-los4SLW2suTHq8FUsDZA9L4UpJ3qLJRJERRc8lhMtsjBKY8XPx9ZkG+5a1NhhFPa
-1hjWk/xgERAMTZzsE72aEaWSJqU8gXjjj+nyn2w3Dc5+L0unGqEdkR3tJBJ93Sf6
-tFsYHhk/A2ZzxU17i76C3u//oDPgDLMyRG7UiQz8UqqwAECix8c=
-=uWAh
+iQIzBAEBCgAdFiEEeC707kLgt3ZqOS/xVVT2dkAUhCAFAmsAtI0ACgkQVVT2dkAU
+hCALpQ//c6qbsClFpG5GghrlHxMMahkWQPwtNPE+qzCiPOFQ7BUJLf8glDQWrkh7
+WxIqLjgH09JbXKAx5qlJ8h1IBnfLgiwAMgc0WC0mATo9wVkR3rdEuecZcWETXfZX
+P9hoUHC33J6M/bCoYj8xklf+s2X1ybzknb/SsF+o73xi4ndquPHIefnzHD8Sb8wD
+yUUQpM64ZkinK9DejIt2gVtMhInIZbfJGyrYRNicX4M41GktQviEzXG/XaK/kVYP
++4DkbORvhUgon+QPV64CaKmOhSMRFb0lQGIPHPU+R1HikhRN1heao7KF94jjzPj1
+XjSfHozl9wjEO2GOv0xky+P13eL0VMmAzlmBNp3JFhkWf/4sH0D4dtpEKQenz4gj
+eqP20rZNNKo4lBjXtIoVazrU7XiwPkZ+xjmEELyLbFtd7G5aXbsOBESJo6kkGtBs
+MfO8Ksv+JoW5dDvjFWFpjOrfFEdfDubn9afa2UeMJwOs0f2WHveYbC1gwEaom5Xr
+pNF9kv9tN0NfO30CChG4CNbn//0DzgSwyW3Jkk4CRDubVBFZtjD1Rw93K7jicf19
+E/hQApC1+Ni30h9ugNg+YMd1IPKo3GPeyiqZ3ftLX9Z6a5Wt02FE67HPdfFHT0rz
+4xBpubNoEYPHdXCi0j0jQsTtgCX5N9+pouDy1VfPUZ911vjHjug=
+=SN59
 -----END PGP SIGNATURE-----
